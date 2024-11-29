@@ -1,0 +1,2 @@
+# Weather
+ Technologies Used: HTML, CSS, JavaScript  API Integration: OpenWeather API  Project Description: I have developed a user-friendly weather application using HTML, CSS, and JavaScript. This app fetches real-time weather data from the OpenWeather API. The application allows users to search for the weather conditions in various locations worldwide. It displays current temperature, humidity, weather conditions, and a five-day forecast. The design is responsive and visually appealing, ensuring a smooth user experience across different devices.
